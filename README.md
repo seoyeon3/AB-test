@@ -7,7 +7,7 @@ The analysis evaluates the difference between test and control groups across fou
 ## Project Links
 
 - [Open Google Colab Notebook](https://colab.research.google.com/drive/12jc3iV7TNbgoZY8TSAg3Philrao66M2u?usp=sharing)
-- [View Tableau Dashboard](https://public.tableau.com/app/profile/seoyeon.park5218/viz/ABtestingDashboard_17801250853750/ABTesting2)
+- [View Tableau Dashboard](https://public.tableau.com/app/profile/seoyeon.park.ds/viz/ABTestingPerformanceDashboard/KPIAnalysisABTestingReport)
 
 ## Workflow
 
@@ -24,7 +24,7 @@ The analysis evaluates the difference between test and control groups across fou
    Created aggregated funnel tables for Tableau, including count, sum, and sum of squares by segment.
 
 5. **Segmented Dashboard Development (Tableau)**  
-   Built an interactive [Tableau Dashboard](https://public.tableau.com/app/profile/seoyeon.park5218/viz/ABtestingDashboard_17801250853750/ABTesting2) to visualise A/B split, funnel metrics, lift, and 95% significance across age, gender, and date segments.  
+   Built an interactive [Tableau Dashboard](https://public.tableau.com/app/profile/seoyeon.park.ds/viz/ABTestingPerformanceDashboard/KPIAnalysisABTestingReport) to visualise A/B split, funnel metrics, lift, and 95% significance across age, gender, and date segments.  
    
 
 6. **Segment-Level Insight**  
