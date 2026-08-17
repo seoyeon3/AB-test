@@ -7,7 +7,7 @@ It includes the development of Tableau dashboards for KPI monitoring and segment
 
 - [Open Google Colab Notebook](https://colab.research.google.com/drive/1_DS48PIWWIUy5n91Y5utejMmfK6plaQj?usp=sharing)
 - [View Tableau Dashboard](https://public.tableau.com/app/profile/seoyeon.park.ds/viz/ABTestingPerformanceDashboard/KPIAnalysisABTestingReport)
-- View Slides
+- [View Slide](https://docs.google.com/presentation/d/1ax-CAfWoWu0CRb6V5Sk4GMPdNp-YyJAL/edit?usp=sharing&ouid=117464704075103651872&rtpof=true&sd=true)
 
 
 ## Workflow
