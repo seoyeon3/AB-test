@@ -9,7 +9,7 @@ CTR, CVR, AOV, ARPU 등 주요 KPI 모니터링과 세그먼트별 A/B 테스트
 
 - [Google Colab Notebook 열기](https://colab.research.google.com/drive/1_DS48PIWWIUy5n91Y5utejMmfK6plaQj?usp=sharing)
 - [Tableau Dashboard 보기](https://public.tableau.com/app/profile/seoyeon.park.ds/viz/ABTestingPerformanceDashboard/KPIAnalysisABTestingReport)
-- [프로젝트 슬라이드 보기](https://docs.google.com/presentation/d/1ax-CAfWoWu0CRb6V5Sk4GMPdNp-YyJAL/edit?usp=sharing&ouid=117464704075103651872&rtpof=true&sd=true)
+- [프로젝트 슬라이드 보기](https://docs.google.com/presentation/d/19iYnmh2KrfUgZfgv2RSrVi3eC2_tJWx3t-4H8Em49UQ/edit?usp=sharing)
 
 ---
 
